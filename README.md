@@ -1,78 +1,50 @@
-<h1 align="center">Hi 👋, I'm Tuqeer Khan</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Builder</h3>
+<h1 align="center">Tuqeer Khan</h1>
+<h3 align="center">Flutter Developer • Building polished, scalable mobile apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BD93F9&center=true&vCenter=true&lines=Flutter+Developer;Mobile+App+Engineer;Learning+Backend;Building+Awesome+Apps" />
+  <a href="https://github.com/Tuqeer-meer-code">
+    <img src="https://komarev.com/ghpvc/?username=Tuqeer-meer-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tuqeer-meer-code&label=Profile%20views&color=0e75b6&style=flat" />
+## About Me
+
+- I build cross-platform mobile apps with Flutter and Dart.
+- I focus on clean architecture, reusable components, and smooth UI/UX.
+- I am currently leveling up in backend development to build complete products end-to-end.
+- I enjoy turning ideas into production-ready apps.
+
+## What I Work With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,postman" alt="Tech stack icons" />
 </p>
+
+## Current Focus
+
+- Building better state management and app architecture patterns.
+- Improving Firebase integration (Auth, Firestore, Notifications).
+- Learning backend fundamentals to support mobile apps at scale.
+
+
+
+## GitHub Analytics
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tuqeer-meer-code&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuqeer-meer-code&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+  <img height="160" src="https://streak-stats.demolab.com?user=Tuqeer-meer-code&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
+
+## Connect
+
+- GitHub: [@Tuqeer-meer-code](https://github.com/Tuqeer-meer-code)
+- LinkedIn: `https://www.linkedin.com/in/tuqeer-meer-008324211/`
+- Email: `tuqeer.khanzada@gmail.com`
 
 ---
 
-## 👨‍💻 About Me
-
-- 📱 Flutter Developer  
-- 🚀 Building Mobile Applications  
-- 🌱 Currently learning **Backend Development**  
-- 💡 Interested in **scalable applications & clean architecture**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tuqeer-meer-code&show_icons=true&theme=dracula" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tuqeer-meer-code&theme=dracula&row=1&column=6&no-frame=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuqeer-meer-code&theme=dracula" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuqeer-meer-code&layout=compact&theme=dracula&langs_count=8" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Tuqeer-meer-code/Tuqeer-meer-code/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-⭐ From <a href="https://github.com/Tuqeer-meer-code">Tuqeer Khan</a>
+If you are building a mobile app and need a Flutter developer, feel free to connect.
