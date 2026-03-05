@@ -49,6 +49,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tuqeer-meer-code&theme=dracula&row=1&column=6" />
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -63,16 +71,9 @@
 
 ![Snake animation](https://github.com/Tuqeer-meer-code/Tuqeer-meer-code/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation dark](https://github.com/Tuqeer-meer-code/Tuqeer-meer-code/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-## 💻 Most Used Languages
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuqeer-meer-code&layout=compact&theme=dracula&langs_count=6" />
-
-</p>
 
 
 ---
