@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋 I'm Tuqeer Khan</h1>
-<h3 align="center">Flutter Developer | Mobile App Builder</h3>
+<h1 align="center">Hi 👋, I'm Tuqeer Khan</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile App Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Flutter+Developer;Mobile+App+Engineer;Learning+Backend;Building+Awesome+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?color=BD93F9&center=true&vCenter=true&lines=Flutter+Developer;Mobile+App+Engineer;Learning+Backend;Building+Awesome+Apps" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Tuqeer-meer-code&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -11,36 +15,58 @@
 
 * 📱 Flutter Developer
 * 🚀 Building Mobile Applications
-* 🌱 Currently learning Backend Development
-* 💡 Interested in scalable applications
+* 🌱 Currently learning **Backend Development**
+* 💡 Interested in **scalable applications & clean architecture**
 
 ---
 
 ## 🛠 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge\&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge\&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge\&logo=firebase)
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tuqeer-meer-code\&show_icons=true\&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tuqeer-meer-code&show_icons=true&theme=dracula" />
+
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tuqeer-meer-code\&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuqeer-meer-code&theme=dracula" />
+
+</p>
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuqeer-meer-code\&layout=compact\&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuqeer-meer-code&layout=compact&theme=dracula" />
+
+</p>
 
 ---
 
-⭐ From Tuqeer Khan
+⭐ From [Tuqeer Khan](https://github.com/Tuqeer-meer-code)
