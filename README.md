@@ -36,8 +36,8 @@
 ## GitHub Analytics
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tuqeer-meer-code&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tuqeer-meer-code&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tuqeer-meer-code&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Tuqeer-meer-code&layout=compact&langs_count=8&hide_border=true" alt="Top languages" />
 </p>
 
 <p>
