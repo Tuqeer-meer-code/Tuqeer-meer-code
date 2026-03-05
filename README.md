@@ -52,4 +52,4 @@
 
 ---
 
-If you are building a mobile app and need a Flutter developer, feel free to connect.
+Open to Flutter freelance, remote roles, and collaboration.
